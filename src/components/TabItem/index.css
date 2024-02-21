@@ -1,0 +1,14 @@
+.tab-btn {
+  background-color: transparent;
+  border-style: none;
+  text-align: center;
+  margin-right: 15px;
+  text-decoration: underline;
+}
+
+.active-btn {
+  color: #2563eb;
+  text-decoration: underline;
+  text-decoration-color: #2563eb;
+  text-underline-position: below;
+}

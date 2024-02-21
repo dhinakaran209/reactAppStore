@@ -1,0 +1,17 @@
+.app-card-img {
+  height: 60px;
+  width: 60px;
+  border-radius: 12px;
+}
+
+.app-card {
+  padding: 15px;
+  width: 150px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
